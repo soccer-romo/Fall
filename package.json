@@ -1,0 +1,22 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soccer-romo/Fall.git"
+  },
+  "author": "Dn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soccer-romo/Fall/issues"
+  },
+  "homepage": "https://github.com/soccer-romo/Fall#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
